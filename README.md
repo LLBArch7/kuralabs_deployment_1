@@ -1,4 +1,5 @@
 <details>
+<summary>Original Deployment Assignement Doc Link</summary>
 <img src="https://github.com/kura-labs-org/kuralabs_deployment_1/blob/main/Kuralogo.png">
 <h1 align="center">kuralabs_deployment_1<h1> 
 
